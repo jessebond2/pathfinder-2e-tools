@@ -1,0 +1,12 @@
+{
+  "name": "pathfinder-2e-tools",
+  "packageManager": "yarn@3.5.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
